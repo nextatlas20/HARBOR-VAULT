@@ -1,0 +1,4 @@
+service_id	candidate_id	captured_minute	size_bytes	sha256
+billing	RC-100	80	1200	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+maps	RC-104	55	550	bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+radio	RC-106	95	760	cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
